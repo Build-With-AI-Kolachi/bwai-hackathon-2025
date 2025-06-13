@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://i.imgur.com/7DTTMAf.png" width="100%">
+  <img src="https://i.postimg.cc/KYsM8qbc/event-banner.png" width="100%">
 </div>
 
-# Build with AI Hackathon - GitHub Classroom Assignment
+# GDG Kolachi Build With AI 2025 - Hackathon - GitHub Classroom Assignment
 
-Welcome to the Build with AI Hackathon GitHub Classroom assignment! In this hackathon, participants will have the opportunity to leverage Google's Generative AI tools to create innovative and sustainable solutions. Explore the live showcase [here](https://ai.gdgkolachi.com/showcase). Below are the guidelines and instructions for submitting your project.
+Welcome to the GDG Kolachi Build With AI Karachi 2025 - Hackathon - GitHub Classroom Assignment! In this hackathon, participants will have the opportunity to leverage Google's Generative AI tools to create innovative and sustainable solutions. Below are the guidelines and instructions for submitting your project.
 
 ## Checklist for Submission:
 __Please make sure to complete this checklist before submission.__
 > You can check the box by adding x in between [], i.e. [x], when editing README.md.
-- [ ] Upload the video to YouTube or Google Drive and add the link here: <LINK>
-- [ ] Compile/run your project code and demonstrate the functionality along with input and output in the video: <VIDEO_LINK_HERE>
-- [ ] Upload presentation (pitch deck) of your project: <PRESENTATION_LINK>
+- [ x] Upload the video to YouTube or Google Drive and add the link here: <https://drive.google.com/file/d/1xSeGeval2X5SwI3LdB0GVZOqH64jxr9t/view?usp=drive_link>
+- [x ] Compile/run your project code and demonstrate the functionality along with input and output in the video: <https://drive.google.com/file/d/1oTa4V-Hx6ZiZ03_sKdqmDGlyTWnb1wBb/view?usp=drive_link>
+- [x ] Upload presentation (pitch deck) of your project: <https://docs.google.com/presentation/d/1fd96CDBWkN7ueucHD2tbY5xoEM_WTX0k/edit?usp=drive_link&ouid=101622358145380978908&rtpof=true&sd=true>
 
-- [ ] I have made sure all the links added are shareable and the content is accessible.
+- [ x ] I have made sure all the links added are shareable and the content is accessible.
 
-## Build with AI Hackathon Overview
+## GDG Kolachi Build With AI 2025 - Hackathon - Overview
 
-Build with AI Karachi 2024 is a two-day hackathon aimed at fostering creativity and problem-solving using GenAI trends and Google products. Participants will build creative applications that utilize Google's Generative AI tools to address real-world challenges.
+GDG Kolachi Build With AI 2025 - Hackathon is a one-day hackathon aimed at fostering creativity and problem-solving using GenAI trends and Google products. Participants will build creative applications that utilize Google's Generative AI tools to address real-world challenges.
 
 ## Who Can Participate?
 
@@ -43,7 +43,7 @@ Develop a creative application utilizing Google’s Generative AI tools. Build, 
 
 ## Submission Instructions
 
-- The hackathon begins at 12 PM on May 4th and ends at 7 AM on May 5th with no extensions.
+- The hackathon begins at 10PM on June 14th and ends at 7PM on June 14th with no extensions.
 - Teams must submit their final projects via GitHub repositories provided.
 - Include the deployed solution along with the code.
 - Submit a short video explaining the solution.
@@ -70,7 +70,6 @@ Develop a creative application utilizing Google’s Generative AI tools. Build, 
 
 - The hackathon is open to anyone interested in AI and technology.
 - No prior AI experience is required; mentors will provide support.
-- Participants must register as teams, with 2 to 4 members.
 - Participants should bring laptops, chargers, and a creative mindset.
 - Projects must utilize Google's Generative AI tools and APIs.
 - The hackathon will be structured in three phases: ideation, prototyping, and submission.
@@ -78,3 +77,5 @@ Develop a creative application utilizing Google’s Generative AI tools. Build, 
 - Winning teams will receive cash prizes and recognition.
 
 Let's build with AI and unleash creativity! 🚀🤖
+
+Learn More About GDG Kolachi Build With AI 2025 at [ai.gdgkolachi.com](https://ai.gdgkolachi.com)
